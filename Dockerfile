@@ -1,4 +1,4 @@
-FROM thehseff17/docker_rust
+FROM thesheff17/docker_rust
 
 MAINTAINER Dan Sheffner <Dan@Sheffner.com>
 
